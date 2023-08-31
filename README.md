@@ -1,15 +1,17 @@
 # Calculator-in-react
 
-## Features
-
-- Addition, subtraction, multiplication, and division operations.
-- Responsive design for both desktop and mobile use.
-- Clear button to reset the input.
+.
 
   
 # React Calculator with Vite
 
 This is a simple calculator application built using React and Vite.
+
+## Features
+
+- Addition, subtraction, multiplication, and division operations.
+- Responsive design for both desktop and mobile use.
+- Clear button to reset the input
 
 ## Installation
 
