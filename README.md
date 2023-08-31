@@ -44,6 +44,8 @@ To build the application for production, use the following command:
 
 
 npm run build
+
+
 This will create an optimized production-ready build in the dist directory.
 
 Contributing
