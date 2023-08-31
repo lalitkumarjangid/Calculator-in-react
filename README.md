@@ -1,6 +1,6 @@
 # Calculator-in-react
 
-.
+
 
   
 # React Calculator with Vite
