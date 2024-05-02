@@ -24,17 +24,17 @@ Before you begin, ensure you have Node.js and npm (Node Package Manager) install
 
 
 Install the required npm packages:
-
+```bash
 npm install
-
+```
 
 Usage
 To start the development server and run the application locally, use the following command:
 
-
+```bash
 
 npm run dev
-
+```
 
 This will launch the development server and open the application in your default web browser. You can make changes to the code and see the updates live in the browser.
 
@@ -42,9 +42,9 @@ Building for Production
 To build the application for production, use the following command:
 
 
-
+```bash
 npm run build
-
+```
 
 This will create an optimized production-ready build in the dist directory.
 
@@ -53,5 +53,6 @@ If you would like to contribute to this project, feel free to fork the repositor
 
 License
 This project is licensed under the MIT License.
-
+```bash
 Happy calculating! 🧮
+```
